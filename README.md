@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Omar Khamis</h1>
+<h3 align="center">Software Developer | Instructor | AI Enthusiast</h3>
 
-<!--
-**omar-khamis-dev/omar-khamis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Building smart web and mobile apps <br>
+  📍 Based in Yemen | 🌍 Open to remote work opportunities
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 **Bachelor's in Computer Science** – Sana'a University  
+- 🎓 **Diploma in IT** – Community College  
+- 👨‍🏫 Teaching computer science, programming, and web development in multiple institutes  
+- 🚀 Passionate about **Artificial Intelligence** and digital empowerment  
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+`Dart` `Flutter` `HTML` `CSS` `JavaScript` `PHP` `Python` `SQL`  
+
+**Tools & Technologies**  
+`MySQL` `Django` `Git` `RESTful APIs` `Firebase` `VS Code`  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omar-khamis&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-khamis&layout=compact&theme=radical" width="330"/>
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/eng-omar-khamis)  
+- 📧 Email: omar.yem.dev@gmail.com
+
+---
+
+⭐️ *Thank you for visiting my profile! Feel free to check out my repositories and connect with me.*
