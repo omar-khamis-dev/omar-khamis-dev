@@ -30,15 +30,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-khamis&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-khamis&layout=compact&theme=radical" width="330"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omar-khamis-dev&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-khamis-dev&layout=compact&theme=radical" width="330"/>
 </p>
 
 ---
 
 ### 🌐 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/eng-omar-khamis)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/omar-khamis-dev)  
 - 📧 Email: omar.yem.dev@gmail.com
 
 ---
