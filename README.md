@@ -39,7 +39,7 @@
 ### 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/omar-khamis-dev)  
-- 📧 Email: omarkhamis088@gmail.com
+- 📧 Email: omar.khamis.dev@gmail.com
 
 ---
 
