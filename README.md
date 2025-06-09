@@ -10,7 +10,6 @@
 
 
 ![Made by Omar](https://img.shields.io/badge/Made%20by-Omar%20Khamis-blueviolet)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Built with PHP](https://img.shields.io/badge/Built%20with-PHP-blue)
 ![HTML](https://img.shields.io/badge/Markup-HTML5-orange)
 ![CSS](https://img.shields.io/badge/Style-CSS-blue)
@@ -19,6 +18,14 @@
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![IDE-VSCode](https://img.shields.io/badge/IDE-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python)
+![NLP](https://img.shields.io/badge/NLP-Scikit--learn-brightgreen.svg)
+![Pandas](https://img.shields.io/badge/Data-Pandas-yellow.svg)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-orange)
+![Platform-Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 ---
 
