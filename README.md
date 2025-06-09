@@ -8,6 +8,20 @@
 
 ---
 
+
+![Made by Omar](https://img.shields.io/badge/Made%20by-Omar%20Khamis-blueviolet)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Built with PHP](https://img.shields.io/badge/Built%20with-PHP-blue)
+![HTML](https://img.shields.io/badge/Markup-HTML5-orange)
+![CSS](https://img.shields.io/badge/Style-CSS-blue)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-purple)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![IDE-VSCode](https://img.shields.io/badge/IDE-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+
+---
+
 ### 👨‍💻 About Me
 
 - 🎓 **Bachelor's in Computer Science** – Sana'a University  
