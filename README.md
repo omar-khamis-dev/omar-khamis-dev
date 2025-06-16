@@ -48,12 +48,9 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 My GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-khamis-dev&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-khamis-dev&layout=compact&theme=radical" width="330"/>
-</p>
+![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar-khamis-dev&show_icons=true&layout=compact&card_width=220&theme=dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omar-khamis-dev&theme=dark&card_width=320)](https://git.io/streak-stats)
 
 ---
 
@@ -61,13 +58,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-khamis-dev&langs_count=8&layout=compact&theme=dracula&hide_border=false" width="400px">
-</div>
-
-
-## 📈 My GitHub Statistics
-
-![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar-khamis-dev&show_icons=true&layout=compact&card_width=220&theme=dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omar-khamis-dev&theme=dark&card_width=320)](https://git.io/streak-stats)
- 
+</div> 
 
 ---
 
